@@ -1,4 +1,0 @@
-# import.bjou
-
-import "c/io.bjou"
-fprintf(stdout(), "oh, no!")

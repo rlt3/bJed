@@ -1,9 +1,0 @@
-# ct.bjou
-
-\ct {
-    type T{
-        proc create() {
-            print "T.create"     
-        }     
-    }    
-}

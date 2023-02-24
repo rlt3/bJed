@@ -1,6 +1,0 @@
-p(B ref)
-p(B*)
-p(A ref)
-p(A*)
-p(B ref)
-p(B*)

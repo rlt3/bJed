@@ -1,7 +1,0 @@
-# malloc.bjou
-
-(proc main() {
-    data := malloc(12345)
-    # print "%", data
-    free(data)
-})()

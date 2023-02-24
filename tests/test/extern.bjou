@@ -1,8 +1,0 @@
-extern system(char*) : int
-
-main()
-
-proc main() {
-    system("echo extern")
-    system("seq 0 10")
-}

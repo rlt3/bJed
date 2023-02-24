@@ -1,0 +1,6 @@
+[submodule "yed"]
+	path = yed
+	url = https://github.com/your-editor/yed.git
+[submodule "bJou"]
+	path = bJou
+	url = https://github.com/kammerdienerb/bJou.git

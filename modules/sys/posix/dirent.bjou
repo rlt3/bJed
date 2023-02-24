@@ -1,7 +1,0 @@
-# sys/posix/dirent.bjou
-
-module sys_posix_dirent
-
-\static_if{ os.IS_POSIX
-# @incomplete
-}

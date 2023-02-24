@@ -1,5 +1,0 @@
-# file2.bjou
-
-proc foo(message : char*) {
-    print "foo: %", message
-}

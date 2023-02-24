@@ -1,7 +1,0 @@
-# file1.bjou
-
-main()
-
-proc main() {
-    foo("vamos Argentina!")
-}

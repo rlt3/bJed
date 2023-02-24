@@ -1,7 +1,0 @@
-# sys/windows/string.bjou
-
-module sys_windows_string
-
-\static_if{ os.IS_POSIX
-# @incomplete
-}
