@@ -21,7 +21,7 @@ libnolib_syscall:
 	cp libnolibc_syscall.so /usr/lib/
 
 test:
-	./$(OUT) hello.bjou -I bJou/modules
+	./$(OUT) --emitllvm hello.bjou -I bJou/modules
 
 clean:
 	rm p *.o
